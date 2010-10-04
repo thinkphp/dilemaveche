@@ -22,7 +22,7 @@
      a.back{-moz-border-radius:5px 5px 5px 5px;-moz-box-shadow:-1px 1px 5px rgba(33, 33, 33, 0.6);background:none repeat scroll 0 0 #FFCC66;border:medium none;color:#000000;font-weight:bold;padding:0.2em 1em;text-decoration:none;float: left;margin-bottom: 40px}
      a.back:hover{ background:#ff9;  -moz-box-shadow:0px 0px 2px rgba(33,33,33,.6);}
      #ft{font-size:80%;color:#888;text-align:left;margin:2em 0;font-size: 12px}
-     #ft p a{color:#93C37D;}
+     #ft p a{color:#393;}
      div.node {clear: both}
    </style>
 </head>
@@ -35,7 +35,7 @@
            <?php echo$results; ?>
 	</div>
 	</div>
-   <div id="ft" role="contentinfo"><p>Created By @<a href="http://twitter.com/thinkphp">thinkphp</a> using <a href="http://developer.yahoo.com/yql/guide/yql-select-xpath.html">XPath</a></p></div>
+   <div id="ft" role="contentinfo"><p>Created By @<a href="http://twitter.com/thinkphp">thinkphp</a> using <a href="http://developer.yahoo.com/yql/guide/yql-select-xpath.html">XPath</a> | source on <a href="http://github.com/thinkphp/dilemaveche-php-yql-xpath">GitHub</a></p></div>
 </div>
 <script type="text/javascript" src="ajax.js"></script>
 <script type="text/javascript">
